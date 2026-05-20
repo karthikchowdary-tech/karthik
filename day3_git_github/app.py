@@ -1,5 +1,1 @@
-print("Hello, World!")
-print("karthik")
-print("Welcome to Python programming.")
-print("gitcommands")
-print("git init")
+print("sharook khan")
