@@ -1,0 +1,9 @@
+Python is a popular programming language.
+
+Machine learning helps computers learn from data.
+
+Artificial Intelligence is transforming industries.
+
+ChromaDB is used for vector storage.
+
+TinyLlama is a lightweight local language model.
